@@ -5,7 +5,6 @@ A simple and fun Tic Tac Toe game built using React, TypeScript, and Tailwind CS
 ## 🚀 Live Demo
 
 [🔗 Play the Game](https://yourdomain.com/)  
-_(Replace this link with your deployed app URL)_
 
 ---
 
