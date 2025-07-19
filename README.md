@@ -2,10 +2,6 @@
 
 A simple and fun Tic Tac Toe game built using React, TypeScript, and Tailwind CSS. Challenge your friends and enjoy a responsive UI with clean code!
 
-## 🚀 Live Demo
-
-[🔗 Play the Game](https://yourdomain.com/)  
-
 ---
 
 ## 📦 Tech Stack
